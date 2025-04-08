@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|c:\\users\\star-\\onedrive - uap.edu.ar\\escritorio\\uap\\2do_a\u00F1o\\programacion i\\trabajopracticon1\\trabajopracticon1\\sopa_letras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|solutionrelative:trabajopracticon1\\sopa_letras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|c:\\users\\star-\\onedrive - uap.edu.ar\\escritorio\\uap\\2do_a\u00F1o\\programacion i\\trabajopracticon1\\trabajopracticon1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|solutionrelative:trabajopracticon1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sopa_Letras.cs",
+              "DocumentMoniker": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Sopa_Letras.cs",
+              "RelativeDocumentMoniker": "TrabajoPracticoN1\\Sopa_Letras.cs",
+              "ToolTip": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Sopa_Letras.cs",
+              "RelativeToolTip": "TrabajoPracticoN1\\Sopa_Letras.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwMkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:51:30.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Program.cs",
+              "RelativeDocumentMoniker": "TrabajoPracticoN1\\Program.cs",
+              "ToolTip": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Program.cs",
+              "RelativeToolTip": "TrabajoPracticoN1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAgTaL3TCItwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:45:54.484Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
