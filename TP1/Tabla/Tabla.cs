@@ -1,28 +1,54 @@
-﻿// TODO: Agregar parámetro para ambiar el color de las letras de la fila de títulos
-
-using System;
+﻿using System;
+using static TP1.Tabla.CaracteresTabla;
 
 namespace TP1
 {
     class Tabla
     {
         // Caracteres para dibujar la tabla
-        public static readonly char EsquinaSuperiorIzquierda = '╭';
-        public static readonly char EsquinaSuperiorDerecha = '╮';
-        public static readonly char EsquinaInferiorIzquierda = '╰';
-        public static readonly char EsquinaInferiorDerecha = '╯';
-        public static readonly char BordeHorizontal = '─';
-        public static readonly char BordeVertical = '│';
-        public static readonly char InterseccionSuperior = '┬';
-        public static readonly char InterseccionInferior = '┴';
-        public static readonly char InterseccionIzquierda = '├';
-        public static readonly char InterseccionDerecha = '┤';
-        public static readonly char InterseccionIntermedia = '┼';
+        public static class CaracteresTabla
+        {
+            public const char EsquinaSuperiorIzquierda = '╭';
+            public const char EsquinaSuperiorDerecha = '╮';
+            public const char EsquinaInferiorIzquierda = '╰';
+            public const char EsquinaInferiorDerecha = '╯';
+            public const char BordeHorizontal = '─';
+            public const char BordeVertical = '│';
+            public const char InterseccionSuperior = '┬';
+            public const char InterseccionInferior = '┴';
+            public const char InterseccionIzquierda = '├';
+            public const char InterseccionDerecha = '┤';
+            public const char InterseccionIntermedia = '┼';
+        }
 
-        public static void DibujarTabla(string[,] datos)
+        // Colores disponibles
+        public enum Color
+        {
+            Negro,
+            Azul,
+            Cian,
+            Gris,
+            Verde,
+            Magenta,
+            Rojo,
+            Amarillo,
+            Blanco,
+            AzulOscuro,
+            CianOscuro,
+            GrisOscuro,
+            VerdeOscuro,
+            MagentaOscuro,
+            RojoOscuro,
+            AmarilloOscuro
+        }
+
+        public static void DibujarTabla(string[,] datos, Color colorEncabezado)
         {
             int filas = datos.GetLength(0);
             int columnas = datos.GetLength(1);
+
+            // Traducir el color seleccionado a ConsoleColor
+            ConsoleColor color = TraducirColor(colorEncabezado);
 
             // Obtener el ancho máximo de cada columna
             int[] anchoColMax = ObtenerAnchoColumna(datos, filas, columnas);
@@ -35,7 +61,9 @@ namespace TP1
             {
                 int espacios = anchoColMax[j] - datos[0, j].Length;
                 Console.Write(BordeVertical);
+                Console.ForegroundColor = color; // Cambiar clor del texto
                 Console.Write($" {datos[0, j]} ");
+                Console.ResetColor(); // Reestablecer color original
                 Console.Write(new string(' ', espacios));
             }
             Console.WriteLine(BordeVertical);
@@ -118,6 +146,30 @@ namespace TP1
             }
 
             return anchoColMax;
+        }
+
+        private static ConsoleColor TraducirColor(Color color)
+        {
+            return color switch
+            {
+                Color.Negro => ConsoleColor.Black,
+                Color.Azul => ConsoleColor.Blue,
+                Color.Cian => ConsoleColor.Cyan,
+                Color.Gris => ConsoleColor.Gray,
+                Color.Verde => ConsoleColor.Green,
+                Color.Magenta => ConsoleColor.Magenta,
+                Color.Rojo => ConsoleColor.Red,
+                Color.Amarillo => ConsoleColor.Yellow,
+                Color.Blanco => ConsoleColor.White,
+                Color.AzulOscuro => ConsoleColor.DarkBlue,
+                Color.CianOscuro => ConsoleColor.DarkCyan,
+                Color.GrisOscuro => ConsoleColor.DarkGray,
+                Color.VerdeOscuro => ConsoleColor.DarkGreen,
+                Color.MagentaOscuro => ConsoleColor.DarkMagenta,
+                Color.RojoOscuro => ConsoleColor.DarkRed,
+                Color.AmarilloOscuro => ConsoleColor.DarkYellow,
+                _ => ConsoleColor.White // Color por defecto
+            };
         }
     }
 }
