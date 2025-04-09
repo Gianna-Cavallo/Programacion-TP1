@@ -42,33 +42,37 @@ namespace TP1
             AmarilloOscuro
         }
 
-        public static void DibujarTabla(string[,] datos, Color colorEncabezado)
+        public static void DibujarTabla(string[,] datos, Color colorEncabezado = Color.Blanco, Color colorBorde = Color.GrisOscuro)
         {
             int filas = datos.GetLength(0);
             int columnas = datos.GetLength(1);
 
             // Traducir el color seleccionado a ConsoleColor
-            ConsoleColor color = TraducirColor(colorEncabezado);
+            ConsoleColor color1 = TraducirColor(colorEncabezado);
+            ConsoleColor color2 = TraducirColor(colorBorde);
 
             // Obtener el ancho máximo de cada columna
             int[] anchoColMax = ObtenerAnchoColumna(datos, filas, columnas);
 
             // Dibujar borde horizontal superior
+            Console.ForegroundColor = color2; // Cambiar color del borde
             DibujarBordeSuperior(columnas, anchoColMax);
 
             // Dibujar encabezado de la tabla
             for (int j = 0; j < columnas; j++)
             {
                 int espacios = anchoColMax[j] - datos[0, j].Length;
+                Console.ForegroundColor = color2; // Cambiar color del borde
                 Console.Write(BordeVertical);
-                Console.ForegroundColor = color; // Cambiar clor del texto
+                Console.ForegroundColor = color1; // Cambiar color del texto
                 Console.Write($" {datos[0, j]} ");
-                Console.ResetColor(); // Reestablecer color original
                 Console.Write(new string(' ', espacios));
             }
+            Console.ForegroundColor = color2; // Cambiar color del borde
             Console.WriteLine(BordeVertical);
 
             // Dibujar borde horizontal intermedio
+            Console.ForegroundColor = color2; // Cambiar color del borde
             DibujarBordeIntermedio(columnas, anchoColMax);
 
             // Dibujar el resto de la tabla
@@ -77,10 +81,13 @@ namespace TP1
                 for (int j = 0; j < columnas; j++)
                 {
                     int espacios = anchoColMax[j] - datos[i, j].Length;
+                    Console.ForegroundColor = color2; // Cambiar color del borde
                     Console.Write(BordeVertical);
+                    Console.ResetColor(); // Reniciar color para el texto
                     Console.Write($" {datos[i, j]} ");
                     Console.Write(new string(' ', espacios));
                 }
+                Console.ForegroundColor = color2; // Cambiar color del borde
                 Console.WriteLine(BordeVertical);
             }
 

@@ -14,7 +14,8 @@ namespace TP1
                 { "Malena", "KLEIN", "39480" }
             };
 
-            Tabla.DibujarTabla(datos, Cian);
+            Tabla.DibujarTabla(datos, Cian, Azul);
+            Tabla.DibujarTabla(datos);
         }
     }
 }
