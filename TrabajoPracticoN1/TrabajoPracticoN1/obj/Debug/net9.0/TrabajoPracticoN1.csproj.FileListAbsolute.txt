@@ -12,3 +12,18 @@ C:\Users\star-\OneDrive - uap.edu.ar\Escritorio\UAP\2DO_AÑO\Programacion I\Trab
 C:\Users\star-\OneDrive - uap.edu.ar\Escritorio\UAP\2DO_AÑO\Programacion I\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.pdb
 C:\Users\star-\OneDrive - uap.edu.ar\Escritorio\UAP\2DO_AÑO\Programacion I\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.genruntimeconfig.cache
 C:\Users\star-\OneDrive - uap.edu.ar\Escritorio\UAP\2DO_AÑO\Programacion I\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\ref\TrabajoPracticoN1.dll
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\net9.0\TrabajoPracticoN1.exe
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\net9.0\TrabajoPracticoN1.deps.json
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\net9.0\TrabajoPracticoN1.runtimeconfig.json
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\net9.0\TrabajoPracticoN1.dll
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\net9.0\TrabajoPracticoN1.pdb
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.AssemblyInfoInputs.cache
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.AssemblyInfo.cs
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.csproj.CoreCompileInputs.cache
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.sourcelink.json
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.dll
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\refint\TrabajoPracticoN1.dll
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.pdb
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\TrabajoPracticoN1.genruntimeconfig.cache
+C:\Users\saids\OneDrive - uap.edu.ar\UAP\II Año\I Cuatrimestre\Programacion I\Tp 1\Desarrollo Github Gianna\Programacion-TP1\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\net9.0\ref\TrabajoPracticoN1.dll

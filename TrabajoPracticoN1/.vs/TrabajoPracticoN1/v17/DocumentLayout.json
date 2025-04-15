@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\",
+  "WorkspaceRootPath": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II A\u00F1o\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Sopa_Letras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrabajoPracticoN1\\Sopa_Letras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|c:\\users\\saids\\onedrive - uap.edu.ar\\uap\\ii a\u00F1o\\i cuatrimestre\\programacion i\\tp 1\\desarrollo github gianna\\programacion-tp1\\trabajopracticon1\\trabajopracticon1\\gestortabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|solutionrelative:trabajopracticon1\\gestortabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrabajoPracticoN1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|c:\\users\\saids\\onedrive - uap.edu.ar\\uap\\ii a\u00F1o\\i cuatrimestre\\programacion i\\tp 1\\desarrollo github gianna\\programacion-tp1\\trabajopracticon1\\trabajopracticon1\\tabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|solutionrelative:trabajopracticon1\\tabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|c:\\users\\saids\\onedrive - uap.edu.ar\\uap\\ii a\u00F1o\\i cuatrimestre\\programacion i\\tp 1\\desarrollo github gianna\\programacion-tp1\\trabajopracticon1\\trabajopracticon1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|solutionrelative:trabajopracticon1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|c:\\users\\saids\\onedrive - uap.edu.ar\\uap\\ii a\u00F1o\\i cuatrimestre\\programacion i\\tp 1\\desarrollo github gianna\\programacion-tp1\\trabajopracticon1\\trabajopracticon1\\sopa_letras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B338768-920E-4A9D-8820-AF6E1BCB1B9F}|TrabajoPracticoN1\\TrabajoPracticoN1.csproj|solutionrelative:trabajopracticon1\\sopa_letras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +31,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Sopa_Letras.cs",
-              "DocumentMoniker": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Sopa_Letras.cs",
-              "RelativeDocumentMoniker": "TrabajoPracticoN1\\Sopa_Letras.cs",
-              "ToolTip": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Sopa_Letras.cs",
-              "RelativeToolTip": "TrabajoPracticoN1\\Sopa_Letras.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Title": "GestorTabla.cs",
+              "DocumentMoniker": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II A\u00F1o\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\GestorTabla.cs",
+              "RelativeDocumentMoniker": "TrabajoPracticoN1\\GestorTabla.cs",
+              "ToolTip": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II A\u00F1o\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\GestorTabla.cs",
+              "RelativeToolTip": "TrabajoPracticoN1\\GestorTabla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:51:30.16Z",
+              "WhenOpened": "2025-04-15T12:43:52.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Tabla.cs",
+              "DocumentMoniker": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II A\u00F1o\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\Tabla.cs",
+              "RelativeDocumentMoniker": "TrabajoPracticoN1\\Tabla.cs",
+              "ToolTip": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II A\u00F1o\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\Tabla.cs",
+              "RelativeToolTip": "TrabajoPracticoN1\\Tabla.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAiwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:43:14.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sopa_Letras.cs",
+              "DocumentMoniker": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II A\u00F1o\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\Sopa_Letras.cs",
+              "RelativeDocumentMoniker": "TrabajoPracticoN1\\Sopa_Letras.cs",
+              "ToolTip": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II A\u00F1o\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\Sopa_Letras.cs",
+              "RelativeToolTip": "TrabajoPracticoN1\\Sopa_Letras.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAhwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:51:30.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II A\u00F1o\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\Program.cs",
               "RelativeDocumentMoniker": "TrabajoPracticoN1\\Program.cs",
-              "ToolTip": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_A\u00D1O\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\Program.cs",
+              "ToolTip": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II A\u00F1o\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\Program.cs",
               "RelativeToolTip": "TrabajoPracticoN1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAgTaL3TCItwAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T22:45:54.484Z"
             }

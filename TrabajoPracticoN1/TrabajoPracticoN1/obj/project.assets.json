@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\star-\\.nuget\\packages\\": {},
+    "C:\\Users\\saids\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_AÑO\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\TrabajoPracticoN1.csproj",
+      "projectUniqueName": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II Año\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\TrabajoPracticoN1.csproj",
       "projectName": "TrabajoPracticoN1",
-      "projectPath": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_AÑO\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\TrabajoPracticoN1.csproj",
-      "packagesPath": "C:\\Users\\star-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_AÑO\\Programacion I\\TrabajoPracticoN1\\TrabajoPracticoN1\\obj\\",
+      "projectPath": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II Año\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\TrabajoPracticoN1.csproj",
+      "packagesPath": "C:\\Users\\saids\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\saids\\OneDrive - uap.edu.ar\\UAP\\II Año\\I Cuatrimestre\\Programacion I\\Tp 1\\Desarrollo Github Gianna\\Programacion-TP1\\TrabajoPracticoN1\\TrabajoPracticoN1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\star-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\saids\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
